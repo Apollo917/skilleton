@@ -7,9 +7,6 @@
 </div>
 <br>
 
-- [Skilleton on MakerWorld](TODO)
-- [Skilleton on Printables](TODO)
-
 **Skilleton** is a fully open-source, 3D-printable framework designed for constructing custom server and network racks
 for homelab environments. Built around a modular 1U-factor grid, it allows users to scale, stretch, and compose
 enclosures tailored precisely to specific hardware footprints
@@ -32,6 +29,26 @@ entirely defined by swappable, modular structural segments, making the system fu
   with zero structural failure or permanent deformation
 - **Assembled Assembly Capacity:** In active deployment, a fully assembled PETG 8U Skilleton configuration continuously
   supports a **9kg** multi-node homelab setup without structural fatigue
+
+<details>
+<summary>Skilleton 8U Server Rack</summary>
+
+<img src="materials/rack/rack1.jpeg" alt="rack1" width="400">
+<img src="materials/rack/rack2.jpeg" alt="rack2" width="400">
+<img src="materials/rack/rack3.jpeg" alt="rack3" width="400">
+<img src="materials/rack/rack4.jpeg" alt="rack4" width="400">
+<img src="materials/rack/rack5.jpeg" alt="rack5" width="400">
+<img src="materials/rack/rack6.jpeg" alt="rack6" width="400">
+<img src="materials/rack/rack7.jpeg" alt="rack7" width="400">
+<img src="materials/rack/rack-top1.jpeg" alt="rack-top1" width="400">
+<img src="materials/rack/rack-top2.jpeg" alt="rack-top2" width="400">
+
+</details>
+
+## 🔗Links
+
+- [Skilleton on MakerWorld](https://makerworld.com/en/models/2936394-skilleton-10-server-rack-framework#profileId-3288012)
+- [Skilleton on Printables](https://www.printables.com/model/1755132-skilleton-10-server-rack-framework)
 
 ## ⚙️ Print Specifications
 
@@ -106,8 +123,6 @@ interface for equipment
 <img src="materials/stands/stands7.jpeg" alt="stands7" width="400">
 <img src="materials/stands/stands8.jpeg" alt="stands8" width="400">
 <img src="materials/stands/stands9.jpeg" alt="stands9" width="400">
-<img src="materials/stands/stands10.jpeg" alt="stands10" width="400">
-<img src="materials/stands/stands11.jpeg" alt="stands11" width="400">
 
 </details>
 
